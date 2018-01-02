@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=jr\ moi\ an
+comment0.target=Date(int,\ int,\ int)
+comment1.params=d
+comment1.target=Date(Date)
+comment10.params=
+comment10.target=void\ affiche()
+comment11.params=
+comment11.target=int\ jour_dans_annee()
+comment2.params=
+comment2.target=int\ getjour()
+comment3.params=j
+comment3.target=int\ setjour(int)
+comment4.params=
+comment4.target=int\ getmois()
+comment5.params=m
+comment5.target=int\ setmois(int)
+comment6.params=
+comment6.target=int\ getannee()
+comment7.params=a
+comment7.target=int\ setannee(int)
+comment8.params=jour\ mois\ annee
+comment8.target=boolean\ est_egale_a(int,\ int,\ int)
+comment9.params=d
+comment9.target=boolean\ est_egale_a(Date)
+numComments=12
